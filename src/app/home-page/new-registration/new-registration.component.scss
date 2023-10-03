@@ -1,0 +1,38 @@
+.line-color {
+    margin-top: -10px;
+    border: 1px solid aqua;
+    width: 50%;
+}
+
+.reg-form {
+    width: 70%;
+}
+
+.field-width {
+    width: 30%;
+    margin-top: -50px;
+}
+
+.field-label {
+    margin: 5px 0 5px 0;
+}
+
+.remove-btn {
+    float: right;
+    margin-right: 10px;
+}
+
+.submit-btn {
+    padding-top: 50px;
+}
+
+.fied-error {
+    margin-top: 5px;
+    color: red;
+    font-size: small;
+}
+
+::ng-deep .mat-mdc-raised-button:not(:disabled) {
+    color: white !important;
+    background-color: rgb(0, 100, 200) !important;
+}

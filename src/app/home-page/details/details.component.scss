@@ -1,0 +1,41 @@
+.heading {
+    margin-left: 50px;
+}
+
+.lbl-sub-heading {
+    margin-top: 50px 0 10px 0;
+    width: 70%;
+    text-align: center;
+}
+
+.user-details {
+    margin: 0 50px;
+    border: 1px solid black;
+}
+
+.mat-elevation-z8 {
+    width: 100%;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+}
+
+button {
+    color: red;
+}
